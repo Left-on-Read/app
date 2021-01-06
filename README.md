@@ -1,11 +1,10 @@
-
 <h2 align="center">Left on Read: Electron App</h2>
 
 ### Philosophy
 
-**👩🏻‍💻Open Source Transparency**: We open sourced the entire application to keep users' security and privacy first. 
+**👩🏻‍💻Open Source Transparency**: We open sourced the entire application to keep users' security and privacy first.
 
-**🚀Fast**: Now a standalone desktop application, Left on Read works without an Internet connection. 
+**🚀Fast**: Now a standalone desktop application, Left on Read works without an Internet connection.
 
 **🤪Daily Fun**: Keepin' it fun. As an application, users can now easily use Left on Read daily.
 
@@ -14,9 +13,9 @@
 ## Table of Contents
 
 - [Local Development](#local-development)
-	- [Quick Start](#quick-start)
-	- [Code Style](#code-style)
-	- [Troubleshooting](#troubleshooting)
+  - [Quick Start](#quick-start)
+  - [Code Style](#code-style)
+  - [Troubleshooting](#troubleshooting)
 - [Sponsors](#sponsors)
 - [License](#license)
 
@@ -36,7 +35,6 @@ We are proud to be using [Electron-React Boilerplate
 
 - Use `electron-log` for logging
 - Keep files small
-
 
 ### Troubleshooting:
 
